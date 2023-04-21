@@ -1,5 +1,5 @@
 /*
-** mod_owa
+** mod_owa - Howard Screwing Around
 **
 ** Copyright (c) 1999-2021 Oracle Corporation, All rights reserved.
 **
